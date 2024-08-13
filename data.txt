@@ -1,0 +1,584 @@
+Rule ID: adafruit-api-key
+Secret example: adafruita.06u
+'=>='=
+_2krhn0fr6n6trgrt2-s7wedszxacec7|
+
+Rule ID: adobe-client-id
+Secret example: adobezdz4l-7pjw		>4adeb4bffea017980a2693031383df34
+
+Rule ID: adobe-client-secret
+Secret example: p8e-3wjdrey9dawhhc80vhr029gqnvym73h5
+
+Rule ID: age-secret-key
+Secret example: AGE-SECRET-KEY-103Q5H9GSM02ZCW668DG87PY0W3K6HU4E3D4T0QW0D3ZU5E2QQ87ENE6C8P
+
+Rule ID: airtable-api-key
+Secret example: airtable1whag" '="t5l9fk630j47cods6
+
+Rule ID: algolia-api-key
+Secret example: algoliav5thy_.r	 _a>7sy74vffa4qos3b5pwfefxczoy2b9dzs
+
+Rule ID: alibaba-access-key-id
+Secret example: LTAI1q7ucu25nyuaxojudzm7
+
+Rule ID: alibaba-secret-key
+Secret example: alibabaz
+?=0ueq37zpino0mog2e7hciy54cf11t1
+
+Rule ID: asana-client-id
+Secret example: asana"":6179811897214468|
+
+Rule ID: asana-client-secret
+Secret example: asana48viu._m45	0e0:	''"1kxged2qjttonjsdw6digr37dls8tzwd
+
+Rule ID: atlassian-api-token
+Secret example: atlassianqmsl5om2k-xqzd"
+::=xs2gdieywl4gi2bn7ashkkw4
+
+Rule ID: authress-service-client-access-key
+Secret example: ext_le1xb.q2sd.acc-pf89n4g593ylgdz.u3/t+tpnnusau7/4z-nfq6-vcsb_a9ppvoqh6
+
+Rule ID: aws-access-token
+Secret example: ABIAKXO8O7K8V6DUBU55
+
+Rule ID: beamer-api-token
+Secret example: beamergye0ahwqtg.22t' ":===
+`b_t-yh3ubm5k3g0316wa4qoehd3smcpptg7zqbyduc_hvh
+
+Rule ID: bitbucket-client-id
+Secret example: bitbucketxc||:	 =`yvpyjufxbq14rkexw7a72yomgewy7ru5	
+
+Rule ID: bitbucket-client-secret
+Secret example: bitbucketlzsj?=0ea3d=uvdpdmp0k8iloaogjhrj0l8cxi6271jaeil8qr=y86q-jytoffentmo5d_"
+
+Rule ID: bittrex-access-key
+Secret example: bittrexa3<=	
+=
+buee6ygn04ato5fjclxwuvbts6cqdvmm"
+
+Rule ID: bittrex-secret-key
+Secret example: bittrex9vjn09z'?=
+	=uskso4h88z885jfo48ei390397vrwg8a
+
+
+Rule ID: clojars-api-token
+Secret example: CLOJARS_112qin91ald25qggzcn9preoll499f7mzifjqvo1wjriqyyxudw3zuvnjo2h
+
+Rule ID: cloudflare-api-key
+Secret example: cloudflare>
+87094rrqpvt-vyao0ht_tzxt4-jhbmao33urlwqb
+
+Rule ID: cloudflare-global-api-key
+Secret example: cloudflareh0rxti8c'
+::=96121806b94be5c9345cd66103f67869327a1
+
+
+Rule ID: cloudflare-origin-ca-key
+Secret example: v1.0-17f59f4b529b98177aa7d02b-ae600b25a033539b6d4a15fb62bbab4526470aefd1344c07448d5b1f3330cf1036e4e3169af14856693cc79917ec25670bb237e26bee75619314a6db759894f3d1277c3c82c6aaaeff
+
+Rule ID: codecov-access-token
+Secret example: codecovd2a2ru" ||:`vacg5nfkrp7i7itmvba99ljln6xi75ft|
+
+Rule ID: coinbase-access-token
+Secret example: coinbase 0mb44e-s u'||:
+ 1r6ye3f495vyam9-55p9_xdn8zl1wmrct4t1bvm8y-or9bxc1b6jwghcfkuugmua
+
+Rule ID: confluent-access-token
+Secret example: confluentu9	t0r6s0gqz.f7s-f<=j201es85x5tttj41
+
+Rule ID: confluent-secret-key
+Secret example: confluentvq.pwiay4cu9mg	' 	: h4ryw6rhz6xupl1u3ed81daje5uhut6z57t8bkicugjk7o4tffqpvzjt9j7zimwc
+
+Rule ID: contentful-delivery-api-token
+Secret example: contentfulbld10j 42lzt33k" |=43kovg0s2m_w-1ji4pss_mpcl3_drep60i7hnwr-p=y
+
+Rule ID: databricks-api-token
+Secret example: dapigf58fbh3h70h851333c9736a9174h198
+
+Rule ID: datadog-access-token
+Secret example: datadog
+:	"'4ozle5ql1b1w2ksl1kqg5nnny9iq5l9b2d0r2lh3`
+
+Rule ID: defined-networking-api-token
+Secret example: dnkeyk.14p4xe.vbqcm2>`
+'dnkey-qai-0d8mvw=a5qahildrdbb693-q22v1_7v-6lklnxl7w5akk-p-8i5dmtvsjlx74n2ed-gm4j7m99g
+
+Rule ID: digitalocean-access-token
+Secret example: doo_v1_a23a085235938dd3881d0452d43aa6efcfcc0d611918a3f8e4ae64fd0734d8ca
+
+Rule ID: digitalocean-pat
+Secret example: dop_v1_1a34e101da8fc241b152fa679e38f0b443e15d589362105eef671f82bc8e36ca`
+
+Rule ID: digitalocean-refresh-token
+Secret example: dor_v1_a424e22d4eb468447b5e84a9ca8d9aa44a97daf35bc149f8f605dafda1cd6043'
+
+Rule ID: discord-api-token
+Secret example: discordbc2o-vrhqokjj od44 	:=
+ed3f9164d9ef531018f2beeb8c6c930bbaec5f5b6dea6491d7db3ec169d3ede7
+
+Rule ID: discord-client-id
+Secret example: discordex5 sv3.4usc||:'"540356348862700590
+
+Rule ID: discord-client-secret
+Secret example: discord_z0fh0cla3"||:=5srzvtcl5e-3=8-gjhqqxq0p5hdzi4vl
+
+Rule ID: doppler-api-token
+Secret example: dp.pt.b5ngti2w6tg7yqxmvyr1rgaef2b3tg81xkqpcj6wrth
+
+Rule ID: droneci-access-token
+Secret example: dronecis::=
+qfutz1slp8u1uoxmqlcxn3eufhu8j7re
+
+Rule ID: dropbox-api-token
+Secret example: dropbox6kk3hdw'|:=""	"'b0yo3zhemtdjyse
+
+Rule ID: dropbox-long-lived-api-token
+Secret example: dropboxte||::=
+'	lzowa2n0vvqAAAAAAAAAAswr-nmj-sh159hp3iv_cx6uld1bx9m0q8ne2m4zxz_8'
+
+Rule ID: dropbox-short-lived-api-token
+Secret example: dropboxec:	'`sl.-4q0_3o0lgzpz_v4upsc2b43q1myf8pere6b1cd6dej8ca0=hcvnkhsycd=dpwen-73etixbkm70v33hb0s89zstkdwrw1rzxscj4nicn2h_=a7nn3=dr6b16f0dwhkfj-l5_ov
+
+Rule ID: duffel-api-token
+Secret example: duffel_live_k98=4aog2s1ihesd7o_iz3q6nle6l40u7vys9zgq6fl
+
+Rule ID: dynatrace-api-token
+Secret example: dt0c01.11ubg0d0gg8g8tdz7cfl4e71.j6o8ltkdva35adws7qepfkjjpi6pcu43zsp9t3m9itrdpby6qxgxk7f7otr0mygb
+
+Rule ID: easypost-api-token
+Secret example: EZAK61nonqpoldw6prkwb8p4drlllpgx8twqythvi1jk4ujxlrzhq8q201
+
+Rule ID: easypost-test-api-token
+Secret example: EZTKeez9nz116d4zqhy9d4hke340tmi8y6p1quw4ra2cjypxhc9u9p7aal
+
+Rule ID: etsy-access-token
+Secret example: etsyp	<== ==vqfi2lbzexcfpoco8pss9zwn`
+
+Rule ID: facebook-access-token
+Secret example: 448943687923663|87u19v7v3xjrshpaqd8dma0kb2t
+
+Rule ID: facebook-page-access-token
+Secret example: EAAMw1ibonfovl26z2tx4n4yfzgbqc
+
+Rule ID: facebook-secret
+Secret example: facebookj=	``
+070b1742d3516eea00af7449bbf0d75d
+
+Rule ID: fastly-api-token
+Secret example: fastlywdbb7|>-_o7-cumyfz6lzm_e62g3iudd9quagb4
+
+Rule ID: finicity-api-token
+Secret example: finicitygassbw	 m3su3uj'	::==
+="e1769ee45065841312e6501ee407fdb0
+
+Rule ID: finicity-client-secret
+Secret example: finicitytpqmqp:""
+=	rqwsh0s6l9k5y79ndz52"
+
+Rule ID: finnhub-access-token
+Secret example: finnhubrm53rhhir1-8	:=	"htgch0qezwnffp94fxbt
+
+Rule ID: flickr-access-token
+Secret example: flickrlyxaaj	idwgmk38	>=" 	
+nh3kgghx5pyeaj9913tvde95twgz0yke
+
+Rule ID: flutterwave-encryption-key
+Secret example: FLWSECK_TEST-2b1gg056806e
+
+Rule ID: flutterwave-public-key
+Secret example: FLWPUBK_TEST-c4355cdf2c502a5e4cc9884a18a5h396-X
+
+Rule ID: flutterwave-secret-key
+Secret example: FLWSECK_TEST-fef912hgecc0ab482283g2fdgd3cca32-X
+
+Rule ID: frameio-api-token
+Secret example: fio-u-scnb-2mm_z52wtio5xnwu3zmldw4-3dmi0o=q=wnxvi9a_x9buh0yktyy4z5uddg
+
+Rule ID: freshbooks-access-token
+Secret example: freshbooks vumlso	:=	el4i2bgh9gr47tmqddxc5etry61jtdmlly2mk8t8twcznlurz9v919bkg0is9ewt
+
+Rule ID: gcp-api-key
+Secret example: AIzabbYqNaJvjDgV8glChqZxcok1jQzv2y4ujuk
+
+Rule ID: generic-api-key
+Secret example: auth6z8d031nkz-xkt7oq0j
+	"=> `6.n9g3z=3qqj9e1
+
+Rule ID: github-app-token
+Secret example: ghu_HcByrHkia44raEMppDXDpzKdKGOqh3Tjqn1R
+
+Rule ID: github-fine-grained-pat
+Secret example: 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
+
+Rule ID: github-oauth
+Secret example: gho_v4rpH5ihFQvlsMsxVHU9y9n4irm1KEfblfTf
+
+Rule ID: github-pat
+Secret example: ghp_X1qXfOXBnGHpNLzwcWdoMsMs76kCVbrOePTr
+
+Rule ID: github-refresh-token
+Secret example: ghr_OxD5Wf8zz0nmjNEfFAIeKhDCxrycj9qGtdtr
+
+Rule ID: gitlab-pat
+Secret example: glpat-gF5VjdOCJIq2rXCGrjS8
+
+Rule ID: gitlab-ptt
+Secret example: glptt-5f78b1635dd55e06f9ecd98140b6c23dfb5e5a3a
+
+Rule ID: gitlab-rrt
+Secret example: GR1348941ktmlrJWAnmqzklptKXoa
+
+Rule ID: gitter-access-token
+Secret example: gitter == 
+tnwc85vl3jt01-66cb6daq0pngbolv8u3j_20xv5
+
+Rule ID: gocardless-api-token
+Secret example: gocardlessn0f0ttgr9i6r1batv||:live_urfiu=dfs6yzxnvwsn9skkmecj799ercv1ywx_gh
+
+Rule ID: grafana-api-key
+Secret example: eyJrIjoiKnUd9AkBhwNtC1fN2YAbvZGrA6xoVIkp8nM6aL33NGufTk0gazzutAZU1XlB7oSj6yJePq=
+
+Rule ID: grafana-cloud-api-token
+Secret example: glc_L0B41YoWgbXquU31Q97a7qZ1prPLIsGVUYfFKZQNuS3O0uIi7
+
+Rule ID: grafana-service-account-token
+Secret example: glsa_yhVhqNFjtKWIClz4Cy78Bj6nVqEQGFQM_f5DEfBfD'
+
+Rule ID: harness-api-key
+Secret example: pat.R0100xV4jCoyxuhgOntSq4.jMuMaoWKrjGwXZTQIMK1D9vC.x7eyNPYFXy11wS96tA9O
+
+Rule ID: hashicorp-tf-api-token
+Secret example: xfw855t49c4ue9.atlasv1.-jt8wc64g8k0yosp95e8qwtb6h=9s75=0j9m99kmr6i52qzitbyox0tpovxh8a1m
+
+Rule ID: hashicorp-tf-password
+Secret example: password	6cc4r z58lnrpl-?=	"ahj6zd1nk"|
+
+Rule ID: heroku-api-key
+Secret example: heroku:=b6f7b250-bf6f-629c-ea31-9674b4eac14d;
+
+Rule ID: hubspot-api-key
+Secret example: hubspot2jg<=60CD8C29-B749-7A4F-72B4-F0AE071DB79C|
+
+Rule ID: huggingface-access-token
+Secret example: :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
+
+Rule ID: huggingface-organization-api-token
+Secret example: \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
+
+Rule ID: infracost-api-token
+Secret example: ico-LZ1CAycKnaPxF1sEGRGzym6EVhtRDnR0
+
+Rule ID: intercom-api-key
+Secret example: intercoml4pm7		 =>=m9=ltzptcjzen13-gfjndsaj_79z2vsvjxvea9_a7ajcgrs8qnuxkx25=ly
+
+Rule ID: intra42-client-secret
+Secret example: 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
+
+
+Rule ID: jfrog-api-key
+Secret example: artifactory9w0t9b6uz3':::="	 =gntz8r8p9lw3tlvmef35epjgh1jv7sdnzb484qm4qlxx85qro5onnnki0ao0btefljefaxdl5
+
+
+Rule ID: jfrog-identity-token
+Secret example: xray492gakn0dcam=''mzuusx0kkn3mtegqo3w7c7o7qtihsxtfe8dh4p2d6zz07nvlnu05hqvhp3j7g3lv
+
+Rule ID: jwt
+Secret example: eyZpLWr7DkZeO0fD1nbnR4iL8QwZ5C0QcbOtbu.ey3pKllPXoK5SmARhT3DlAKOIp0Nv1aMV0XUGv.GdzmwvfEww7BxR22-Xwfn
+
+Rule ID: jwt-base64
+Secret example: ZXlKcmFXUWlP9TaAqhz54DeNKMkr
+J
+rOt3-m6wc99Hi5eMx+nL09zCuCGMG6P==
+
+Rule ID: kraken-access-token
+Secret example: kraken536w8e_ s-t h0s2<=' ucrg62ax906kd1wlg18l/t7fz+tsp1-bf9vy1qrce8c-s/9_s9v9tc3vv+aj95j0wrpjmbanubx+-/-gi87q
+
+Rule ID: kubernetes-secret-with-data-after
+Secret example: kind:Secret
+NW	(cQ
+ 8 RhL8data:xAVdfXF``f!
+
+Rule ID: kubernetes-secret-with-data-before
+Secret example: data:=¬{«V«,^>÷¯ºáÿGäuAï[/¨2/2åÅÝÏfTÐnÉÈÈØnkÄZTÙÜ%[^LÜBÂÆãTMµÑ¯sýOâËYøðiv3wèåùíUíY [°¾ÒjJabOVÈFàð<®¦l2ÈÛÑÕ2AQ#Þ¢]kind:-RpW_00Secret
+
+Rule ID: kucoin-access-token
+Secret example: kucoin4s6b0bunv-m6w8myue|?="2f3e7b5252c34a8612d74318
+
+Rule ID: kucoin-secret-key
+Secret example: kucoinu hx5yg2p46iazq|=='0d9912d3-d4e9-5c91-6a1c-4cb244577fbb'
+
+Rule ID: launchdarkly-access-token
+Secret example: launchdarklyal4z"?="'6g6hs3q-w4j=exhapqbckgkd0q54p8eo-on4lyw3
+
+Rule ID: linear-api-key
+Secret example: lin_api_sfrkk6nw7khotehc36osc37nnuetqrbavb2znic5
+
+Rule ID: linear-client-secret
+Secret example: linearu-a	jpqjtzoynzti	> 3d7a982c19b6a04c4e77c908788dfee4|
+
+Rule ID: linkedin-client-id
+Secret example: linkedinbkt" =yjkhlgndh6umyg	
+
+Rule ID: linkedin-client-secret
+Secret example: linkedini54r-mdwjt|	:"`		jr40rg6pa9y0crpb
+
+Rule ID: lob-api-key
+Secret example: lobinptlvwb32
+=>=live_4884bea167ac61428177d6aeacfcce7fd16
+
+Rule ID: lob-pub-api-key
+Secret example: lobz	n'=	test_pub_d8684443ee77be85c2222e19043bd30
+
+Rule ID: mailchimp-api-key
+Secret example: MailchimpSDK!initializezikh-||=`d50d79212aa966b4d97786bc42ce3a74-us78
+
+Rule ID: mailgun-private-api-token
+Secret example: mailgunz8 vv7shxfm1dng31fb: key-01225a0079c9d6fa700df63adf2a61e1
+
+Rule ID: mailgun-pub-key
+Secret example: mailguns625f4n<=
+
+="pubkey-d68a3f6c44ec0173545edfa3d72500bd
+
+Rule ID: mailgun-signing-key
+Secret example: mailgun2	4'||:==f86fchgg639833498g04127895e8eh21-07644e9g-4dfc1caa
+
+Rule ID: mapbox-api-token
+Secret example: mapboxx4b71<="pk.znfub790uh7v54pt70e8cd8vygkah4ul627qjhitcm940uidct2bzit1vy37.8ulq27l68oerz4udulgeoy
+
+Rule ID: mattermost-access-token
+Secret example: mattermostk.75_w-57-3nf||	:="9zt9agqhnnff9ug0vf1ow8xc4d 
+
+Rule ID: messagebird-api-token
+Secret example: message-birdz243if||<='
+'i4iu12fclrs25lprmciav0oi5 
+
+Rule ID: messagebird-client-id
+Secret example: message_birdploluapsiveh	:98023154-21ec-4bf6-e73f-1e01905a8e5b
+
+Rule ID: microsoft-teams-webhook
+Secret example: https://60.webhook.office.com/webhookb2/gpee2vmf-i1rf-qprf-rifq-gga0lgdzmqv3@wcwi70wi-twpy-f5h1-5bxw-cuzdwn4d5jip/IncomingWebhook/b60nernzrdjo5kbkm8o7y3ebucz26lmx/t0732g15-peon-hilo-89ii-idm76p9oc8nu
+
+Rule ID: netlify-access-token
+Secret example: netlifypcktqq0ir88myxkf-ga'::= lxwhh_5tclntw_79njb0wtpd5dmiiod0dhd4pz0s
+
+Rule ID: new-relic-browser-api-token
+Secret example: newrelic2hi6'>"=
+	NRJS-68637016b73da460649
+
+Rule ID: new-relic-insert-key
+Secret example: new-relicvp5	gsmu4w-beda3ka?=NRII-28-drs3xrjbcino5p2ivmzvhmyikn5sc
+
+Rule ID: new-relic-user-api-id
+Secret example: newrelic9od.37idk	i y_rt1| ||:	
+`n92l38fgkbc7d4pj9zf9qbd8i9vpg7qzxatg5jgha37syd7m00bg0hdzfnuv2s06
+
+Rule ID: new-relic-user-api-key
+Secret example: new-relicefj>	""
+NRAK-30e5iqq0e42a5j2ojxtbid95p17"
+
+Rule ID: npm-access-token
+Secret example: npm_xbmosxrv9p9w7idyqpgvgzvb7en9bm6venci
+
+Rule ID: nytimes-access-token
+Secret example: newyorktimes-vhfp4"'::=" ='k7q8g1bwk5lga-93ckgzk7j2tgdi88qa
+
+Rule ID: okta-access-token
+Secret example: oktain74b--vu4ak7ael7t>"
+"vm43x-ozp2rdbkd9r8oh63kdm83i5q932goii8o21z
+
+Rule ID: openai-api-key
+Secret example: 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
+
+Rule ID: openshift-user-token
+Error generating example for rule openshift-user-token: bad escape \z at position 30
+
+Rule ID: plaid-api-token
+Secret example: plaidtj1apwy8 ovzaoawht.:`'`'access-development-763b8d7a-8d58-830f-a8b6-9e7345432141	
+
+Rule ID: plaid-client-id
+Secret example: plaidbgbz5
+ ||:''r2r3nmx4pprgj99zmmr2ap46
+
+Rule ID: plaid-secret-key
+Secret example: plaidtcti	j4u:=zdy0de187k5ob113l4kx61rm0me7uw
+
+
+Rule ID: planetscale-api-token
+Secret example: pscale_tkn_pq73imh09sri=9f197xvp_lsp28vqw6cvbcwldcgfvlf3
+
+Rule ID: planetscale-oauth-token
+Secret example: pscale_oauth_pzq.4ytua07b6ck6jsaabvcwc_mkmzkua.
+
+Rule ID: planetscale-password
+Secret example: pscale_pw_77dx_sp8-xi_szzgvtt.222g4dcsc3n29uphdsa|
+
+Rule ID: postman-api-token
+Secret example: PMAK-435ed22688ecd6c18a2ba428-1a2a0857b67dff6f7acc18c8d0512c4dff
+
+
+Rule ID: prefect-api-token
+Secret example: pnu_4gflq4lzxx0c5d8392bx8jl4mgv03hyhgqia
+
+Rule ID: private-key
+Secret example: -----BEGINP409_1E07WDS5DB3XPRIVATE KEY------		
+	 
+ --	KEY----
+
+Rule ID: pulumi-api-token
+Secret example: pul-38ac1ee3990781857135623026fb6fd7880d4a7d
+
+Rule ID: pypi-upload-token
+Secret example: pypi-AgEIcHlwaS5vcmcCGQCIXCJYI9XlKwH1Bs61CFN8x7Vm-ys2yszAAah3sWVzOFeo8iw
+
+Rule ID: rapidapi-access-token
+Secret example: rapidapipn8lr_ w7autfn23_pq=>`'`e-id-n1cch988atr1hibahahpgfu5y_m_-kmcq2djab0gjnhbt 
+
+Rule ID: readme-api-token
+Secret example: rdme_93jthnx2b3pzx3pzjpmhsynbt6syz7qscvbhdiwt6lpv9he94pyid8vq1f1f6suqjwmpbv
+
+Rule ID: rubygems-api-token
+Secret example: rubygems_361f785abc29994e1650718ae4e5610084188b6944d953c2
+
+Rule ID: scalingo-api-token
+Secret example: tk-us-rqwuqGPsDqXuxDeVc4Qj41MhGhNExPGWyuiU3cGOdOGDcLP-
+
+Rule ID: sendbird-access-id
+Secret example: sendbirda1u90g7nofix5i.">`4b7e1ff7-4355-d63a-3ebd-460f881ddd27
+
+
+Rule ID: sendbird-access-token
+Secret example: sendbird r	9_l 	fncw	 |<=4545a04066fff0a746026b77bacbf15f1ef12870
+
+Rule ID: sendgrid-api-token
+Secret example: SG.=s0wgm9a8d1atdghbq8cz62kkb.y1.1yj6vqdc249.-=-72svroj435ah90169=tj-
+
+Rule ID: sendinblue-api-token
+Secret example: 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
+
+Rule ID: sentry-access-token
+Secret example: sentry8b185hf7gj07"	"||:	1bb1ff35ae034666e6db56b2e007d04e2443290e320b2d2b17f49d33a56dd8b8
+
+Rule ID: shippo-api-token
+Secret example: shippo_live_cc0dbcd349add6b98243571ea634d8c9ca511e43
+
+Rule ID: shopify-access-token
+Secret example: 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
+
+Rule ID: shopify-custom-access-token
+Secret example: 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
+
+Rule ID: shopify-private-app-access-token
+Secret example: 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
+
+Rule ID: shopify-shared-secret
+Secret example: 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
+
+Rule ID: sidekiq-secret
+Secret example: BUNDLE_GEMS__CONTRIBSYS__COMw|'||:"	
+82a8a962:cd092d22`
+
+Rule ID: sidekiq-sensitive-url
+Secret example: https://2fbd67cd:dc9d31ea@enterprisePcontribsysFcom
+
+Rule ID: slack-app-token
+Secret example: xapp-5-B16GDT1M2Z4-76493072224864746-g88vgohpzod4ek
+
+Rule ID: slack-bot-token
+Secret example: xoxb-7474072455917-4442856938G7i1-Zel0
+
+Rule ID: slack-config-access-token
+Secret example: xoxe/xoxb-6-NORB1XUX280V9ATXALOLXG2132VI3KF50YOKLII2X9B5X6FZKDUDVBX7H68S7GJQEY494YX2P0KKCGZ0594L172LWBA16BWUXERP35UHGYBRT7XV3JPI18AE0G4PCIRN9HUO6GVRBZVJBOB71447EW2V13HAH9OQLED
+
+Rule ID: slack-config-refresh-token
+Secret example: xoxe-4-D6CVHDBQN33LSYB5MIFI67JJE0KI7CTSHN28NPDK4H03IP8LC4KGFGO1NB0ZY49IA12RSHVIQKVE5ZSC0V3RJN8OFO2W605R3NWGUJ99D7WFN157KPJHQBYYU7J6K6DGYWOAR1WF5KSZ93V6XM
+
+Rule ID: slack-legacy-bot-token
+Secret example: xoxb-04297513221355-fEGgjfpSiPADxR8cX9c0
+
+Rule ID: slack-legacy-token
+Secret example: xoxo-2483169578567280408-65617359616-6481-D2c3Cd263
+
+Rule ID: slack-legacy-workspace-token
+Secret example: xoxa-KylfCv4yrj
+
+Rule ID: slack-user-token
+Secret example: xoxe-431977779216-685419690581-682801794178-8nhBNagEd4Ojr5hOE49uQo1hV9fY8CvXVA
+
+Rule ID: slack-webhook-url
+Secret example: hookseslack0com/workflows/hTXL6VmRgkkpjFlkMHo33cDdGw3WByouCNYxLPsM9pR/0
+
+Rule ID: snyk-api-token
+Secret example: snyk_tokenmp 827xqhv9 xr9 "':"'e1651581-493d-3798-bea9-a6953fffc5d6
+
+Rule ID: square-access-token
+Secret example: sq0atp-JUrlo5W1kaoLPCdaO85I1BtWUpuLA6vintSY163Q9
+
+
+Rule ID: squarespace-access-token
+Secret example: squarespaceu32nepl-jv4vjy9
+||:	`
+"0072bf20-0d6a-b233-5e49-bcfa15600a5c'
+
+Rule ID: stripe-access-token
+Secret example: rk_prod_cil8j7iorbfx2rt6ze5t
+
+Rule ID: sumologic-access-id
+Secret example: sumouig7_wo6uz<==suoyvnXmTMJNat
+
+Rule ID: sumologic-access-token
+Secret example: sumo0nx	j hm4p0yu	rus<='4wwxqv72gm97grfyw92q1wemwkh6nja1sza59xalst8av5mnpnlm6x69xpn7k0d5
+
+Rule ID: telegram-bot-api-token
+Secret example: telegr[m=111617:Alqvnk5e82atpr_gd1efigl33ne5emry4hy
+
+Rule ID: travisci-access-token
+Secret example: travis_0rgbjlw-ekn641fea1?=	l9f8bq6f0ebntiyvva2rt6
+
+Rule ID: twilio-api-key
+Secret example: SK0bd4dcb4cbdF36cf8593FBFD6fAbBed1
+
+Rule ID: twitch-api-token
+Secret example: twitchgmh_65.e=>	 85i5ej9zdm05kc40uepo7uvvnxn2wd
+
+Rule ID: twitter-access-secret
+Secret example: twittersz4.o.up4br42r7o3 4
+>
+' l7prug2pfkhcrcr8xxbvu9i3boy83f428dti7fys4wbhv
+
+Rule ID: twitter-access-token
+Secret example: twitterf3lfpoe	-31'=758743672069793046872-bQwywSDNLFXWgD38xXuzviTdEXRBufIyi
+
+Rule ID: twitter-api-key
+Secret example: twitterc	'?=r25uq1px91bkbfoksmv5sbbgd
+
+Rule ID: twitter-api-secret
+Secret example: twitter k7q>
+`74z5scalqr2qxvbqenwy0rqypltktc3uyddx4537h8bf60th84
+
+Rule ID: twitter-bearer-token
+Secret example: twitterv7k|<='AAAAAAAAAAAAAAAAAAAAAAk57FSOE1pfshYP7QTMOqwdylDMjJkHdOu4AQVVacIkinhiW4tVaJtrtUSVcR3xwQP%ZWkzD1PfxKTwqtyno6ffCPTU
+
+Rule ID: typeform-api-token
+Secret example: typeformwu43yp31ljh-d42=='"tfp_oj=8r=3l=ih_a7.amo_le8z6p6dop.ji1_3ig4gra6-gftj3a=xhc16xwag
+
+Rule ID: vault-batch-token
+Secret example: hvb.wb-ipkb3kxbt-emcdnxzb1ed322m3ca589z33t738oryuvrh66vt5-521t7vrxbehivhzcz6n5ievwq3fc8f4ih8t8gs8cn5ud0efj08oihf0x6gozw4l_q99hsa02xw_z0survha3-4yh2
+
+Rule ID: vault-service-token
+Secret example: hvs.fndnc3zc39ka866f90_49n9e_wyesvpwhu846t5lc9rtebd9qvb4lz64b53xj0zy4__ibrpre-70ga0dkgye61yvarb-oawd
+
+Rule ID: yandex-access-token
+Secret example: yandexutsehfr37pp6<= t1.Tyo.W9YIX7rDfCSPqs_i5HaBgWNgtN-tCQ4Js8T9_jai2KY9HT8DrlXJfJIrAGL2GGwDEBhJ5riDQGewiUqsl-K6mV=|
+
+Rule ID: yandex-api-key
+Secret example: yandex8dm-po4dyl'
+"?= "`AQVNlpKtU4zizaE15UgBAFMShnTDzEbCYU9BJVt
+
+Rule ID: yandex-aws-access-token
+Secret example: yandexcrnyqe6_gz-e.3r9 q'<=
+YCjLtBW3_aIpNjS7Ri-TfX0K-lz7ZvRVrdf_ZV8N
+
+Rule ID: zendesk-secret-key
+Secret example: zendesk9m<=8rniarl6vj14s8vpawo2qsdn8urbeefoen40mbq4`
+
